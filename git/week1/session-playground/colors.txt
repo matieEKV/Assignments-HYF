@@ -2,3 +2,7 @@ red
 purple
 blue
 green
+orange
+gray
+brown
+
